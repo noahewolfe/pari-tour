@@ -1,0 +1,10 @@
+{
+  "name": "pari-tour",
+  "description": "A Node.js based self-guided tour app for the Pisgah Astronomical Research Institute (PARI)",
+  "version": "0.0.0",
+  "author": "Noah Wolfe",
+  "contributors": [ "Noah Wolfe <noahwolfe1999@gmail.com> (https://github.com/noahewolfe)" ],
+  "scripts": { "start": "nodemon app.js" },
+  "dependencies": { },
+  "devDependencies": { }
+}
